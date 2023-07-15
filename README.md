@@ -1,0 +1,1 @@
+# ArraySplitCodingChallenge_CH
